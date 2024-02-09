@@ -36,6 +36,7 @@ const SignUp = () => {
   {
      setLoading(false);
      setError(true);
+     console.log(err);
   }
    }
   return (
